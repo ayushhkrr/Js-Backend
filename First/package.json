@@ -1,0 +1,15 @@
+{
+  "name": "practisebackend",
+  "version": "1.0.0",
+  "description": "Just for practise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "server-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
